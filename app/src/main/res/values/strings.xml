@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">AgriQ</string>
+    <string name="button" translatable="false">Continue</string>
+    <string name="Topic" translatable="false">Be someone\'s hope today.</string>
+    <string name="intro_desc" translatable="false">Your contribution can make a difference.
+        Help us create a better world by donating
+        today. Every penny counts towards our
+        mission.</string>
+    <string name="Topic2" translatable="false">Donations</string>
+    <string name="my_don" translatable="false">My Donations</string>
+    <string name="list_don" translatable="false">List A Donation</string>
+    <string name="don_desc" translatable="false">Plant Description</string>
+    <string name="dona_desc" translatable="false">Donation Description \n 07X-XXXXXXX</string>
+    <string name="bold" translatable="false">bold</string>
+    <string name="my_dons" translatable="false">My \nDonations</string>
+    <string name="edit" translatable="false">Edit Details</string>
+    <string name="list_dons" translatable="false">List A \nDonation</string>
+    <string name="dona_desc_main" translatable="false">Donation Description</string>
+    <string name="enter_desc" translatable="false">Describe your donation</string>
+    <string name="qty" translatable="false">Quantity</string>
+    <string name="qty_hint" translatable="false">Enter the quantity you are donating</string>
+    <string name="phone" translatable="false">Phone Number</string>
+    <string name="phone_hint" translatable="false">Enter your phone number</string>
+    <string name="upload" translatable="false">Upload Image</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="entered" translatable="false">This is blah blah blah</string>
+    <string name="qty_entered" translatable="false">XXXX</string>
+    <string name="phone_entered" translatable="false">07X-XXXXXXX</string>
+    <string name="delet_don" translatable="false">Delete Donation</string>
+    <string name="welcome" translatable="false">Welcome to \nAgriQ</string>
+    <string name="user" translatable="false">User Account</string>
+    <string name="product" translatable="false">Products</string>
+    <string name="donation" translatable="false">Donations</string>
+    <string name="Follow" translatable="false">Follow us on</string>
+    <string name="agriq" translatable="false">AgriQ</string>
+    <string name="slogan" translatable="false">Redefining  Agri  Living</string>
+    <string name="forum" translatable="false">Forum</string>
+</resources>
