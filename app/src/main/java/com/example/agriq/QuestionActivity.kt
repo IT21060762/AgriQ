@@ -1,10 +1,11 @@
 package com.example.mad
+
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MydonActivity : AppCompatActivity() {
+class QuestionActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_mydon)
+        setContentView(R.layout.activity_question)
     }
 }

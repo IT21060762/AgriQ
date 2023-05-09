@@ -1,5 +1,4 @@
-package com.example.agriq
-
+package com.example.mad
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
